@@ -3,7 +3,7 @@
 
 Author - Shaunak Deshmukh
 
-This program creates a class stack that has few methods a below.
+This program creates a class stack that has few methods as below.
 Create an object of the stack,push few elements and exercise other methods.
 
 '''
